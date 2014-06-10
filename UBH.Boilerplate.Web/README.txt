@@ -1,0 +1,1 @@
+﻿An empty project template to start an ASP.NET MVC application.
